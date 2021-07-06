@@ -1,6 +1,6 @@
 
-# using python:2.7 docker image from docker hub
-FROM python:2.7
+# using python:3.7 docker image from docker hub
+FROM python:3.7
 
 # getting the build parameters
 ARG app_port
